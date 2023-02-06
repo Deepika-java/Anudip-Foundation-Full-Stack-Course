@@ -1,4 +1,11 @@
+/* At a birthday party,all children are being given a balloon.
+   Children over 8 years old are being given yellow balloons.
+   For Children aged 8 or under, girls are being given pink balloons and boys are being given blue balloons.
+   Write some code that asks the users for their age, and prints the colour of their balloon.   */
+
+
 import java.util.Scanner;
+
 class FlowControl
 {
 	public static void main(String[]args)
